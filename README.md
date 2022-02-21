@@ -4,6 +4,7 @@
 
 * 사용 기술 <br>
 spring security를 이용한 JWT 로그인 구현<br>
+Thymeleaf를 사용해서 웹페이지 렌더링<br>
 
 * ERD<br>
 [ERD]<https://drive.google.com/file/d/1R934F5GtCoiU5qZBMqJvnSe84_4UkviO/view>
