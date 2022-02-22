@@ -9,4 +9,7 @@ Thymeleaf를 사용해서 웹페이지 렌더링<br>
 * ERD<br>
 [ERD]<https://drive.google.com/file/d/1R934F5GtCoiU5qZBMqJvnSe84_4UkviO/view>
 
+## 제작 기간
+- 21.11 ~ 21.01
+
 
